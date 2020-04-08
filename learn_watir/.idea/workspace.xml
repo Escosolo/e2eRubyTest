@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="780bca00-59c8-48b1-910f-b4103a3986f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YGSopEq4cEXhqkUS1IWx2cyrAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/test_puppies" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="profiler.ruby" />
+  </component>
+  <component name="RunManager" selected="Ruby.second_script">
+    <configuration name="making_cheese.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="learn_watir" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/test_puppies" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test_puppies/features/making_cheese.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adoption_helper" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn_watir" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/adoption_helper.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_script" type="RubyRunConfigurationType" factoryName="Ruby" singleton="false" temporary="true">
+      <module name="learn_watir" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="ruby-2.6.5-p114 (2)" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/first_script.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="second_script" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn_watir" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/second_script.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber.making_cheese.feature" />
+      <item itemvalue="Ruby.first_script" />
+      <item itemvalue="Ruby.second_script" />
+      <item itemvalue="Ruby.adoption_helper" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.second_script" />
+        <item itemvalue="Ruby.adoption_helper" />
+        <item itemvalue="Cucumber.making_cheese.feature" />
+        <item itemvalue="Ruby.first_script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780bca00-59c8-48b1-910f-b4103a3986f4" name="Default Changelist" comment="" />
+      <created>1582567615737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582567615737</updated>
+      <workItem from="1582567617039" duration="12500000" />
+      <workItem from="1582623943039" duration="7854000" />
+      <workItem from="1582725200142" duration="1174000" />
+      <workItem from="1582726407696" duration="53000" />
+      <workItem from="1582726471104" duration="3029000" />
+      <workItem from="1582806173495" duration="33000" />
+      <workItem from="1582806220438" duration="447000" />
+      <workItem from="1582806754324" duration="1386000" />
+      <workItem from="1582818920252" duration="1189000" />
+      <workItem from="1582868239890" duration="595000" />
+      <workItem from="1582881089994" duration="10746000" />
+      <workItem from="1583139716465" duration="29262000" />
+      <workItem from="1583226266286" duration="14052000" />
+      <workItem from="1583254306972" duration="3641000" />
+      <workItem from="1583792155884" duration="723000" />
+      <workItem from="1583821251063" duration="598000" />
+      <workItem from="1583843091884" duration="161000" />
+      <workItem from="1584031028120" duration="531000" />
+      <workItem from="1584033286676" duration="382000" />
+      <workItem from="1584038509055" duration="7636000" />
+      <workItem from="1585237651478" duration="1205000" />
+      <workItem from="1585242979635" duration="30000" />
+      <workItem from="1585243199310" duration="1567000" />
+      <workItem from="1585501234460" duration="2696000" />
+      <workItem from="1585643191116" duration="599000" />
+      <workItem from="1585999890264" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3472" y="356" width="1088" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583169032879">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="280" y="184" width="1088" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872/2736.0.2560.1400@0.0.1368.872" timestamp="1583155806684" />
+    <state x="3472" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583169032879" />
+    <state x="3752" y="463" width="528" height="474" key="EnvironmentVariablesDialog" timestamp="1583169031851">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="543" y="293" width="528" height="474" key="EnvironmentVariablesDialog/0.0.1368.872/2736.0.2560.1400@0.0.1368.872" timestamp="1583155802793" />
+    <state x="3752" y="463" key="EnvironmentVariablesDialog/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583169031851" />
+    <state x="3960" y="87" key="FileChooserDialogImpl" timestamp="1584031557109">
+      <screen x="2736" y="-350" width="2560" height="1400" />
+    </state>
+    <state x="3960" y="437" key="FileChooserDialogImpl/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583254463260" />
+    <state x="3960" y="87" key="FileChooserDialogImpl/0.0.1368.872/6576.-330.2560.1400/2736.-350.2560.1400@2736.-350.2560.1400" timestamp="1584031557109" />
+    <state x="654" y="272" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583192266856" />
+    <state width="1326" height="123" key="GridCell.Tab.0.bottom" timestamp="1583304582801">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583254268780" />
+    <state width="1326" height="123" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583304582801" />
+    <state width="1326" height="123" key="GridCell.Tab.0.center" timestamp="1583304582801">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="227" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583254268779" />
+    <state width="1326" height="123" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583304582801" />
+    <state width="1326" height="123" key="GridCell.Tab.0.left" timestamp="1583304582801">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="227" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583254268779" />
+    <state width="1326" height="123" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583304582801" />
+    <state width="1326" height="123" key="GridCell.Tab.0.right" timestamp="1583304582801">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="227" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583254268780" />
+    <state width="1326" height="123" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583304582801" />
+    <state width="1326" height="280" key="GridCell.Tab.1.bottom" timestamp="1583190802661">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="492" key="GridCell.Tab.1.bottom/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583165798214" />
+    <state width="1326" height="280" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583190802661" />
+    <state width="1326" height="280" key="GridCell.Tab.1.center" timestamp="1583190802661">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="492" key="GridCell.Tab.1.center/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583165798214" />
+    <state width="1326" height="280" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1583190802661" />
+    <state width="1326" height="280" key="GridCell.Tab.1.left" timestamp="1583190802661">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="492" key="GridCell.Tab.1.left/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583165798214" />
+    <state width="1326" height="280" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1583190802661" />
+    <state width="1326" height="280" key="GridCell.Tab.1.right" timestamp="1583190802661">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="2518" height="492" key="GridCell.Tab.1.right/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583165798214" />
+    <state width="1326" height="280" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1583190802661" />
+    <state x="374" y="159" key="SettingsEditor" timestamp="1583192280708">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="3518" y="343" key="SettingsEditor/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583168900343" />
+    <state x="374" y="159" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1583192280708" />
+    <state x="3645" y="246" width="742" height="909" key="find.popup" timestamp="1583170164894">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3645" y="246" width="742" height="909" key="find.popup/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583170164894" />
+    <state x="3674" y="331" key="run.anything.popup" timestamp="1583160665744">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3674" y="331" key="run.anything.popup/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583160665744" />
+    <state x="3679" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1583248439004">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3679" y="315" width="672" height="678" key="search.everywhere.popup/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583248439004" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learn_watir@first_script.rcov" NAME="first_script Coverage Results" MODIFIED="1583215304954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="learn_watir" />
+    <SUITE FILE_PATH="coverage/learn_watir@adoption_helper.rcov" NAME="adoption_helper Coverage Results" MODIFIED="1583266681295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="learn_watir" />
+    <SUITE FILE_PATH="coverage/learn_watir@second_script.rcov" NAME="second_script Coverage Results" MODIFIED="1583266715592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="learn_watir" />
+    <SUITE FILE_PATH="coverage/learn_watir@making_cheese_feature.rcov" NAME="making_cheese.feature Coverage Results" MODIFIED="1583253859523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_puppies" MODULE_NAME="learn_watir" />
+  </component>
+</project>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f066748b-3e7a-41ab-89ee-0d6a63531e5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YcuzhWGaU7ECoxf1serlH2tmbC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Cucumber.making_cheese.feature">
+    <configuration name="Scenario: Using the cheese machine (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="test_puppies" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/making_cheese.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Using the cheese machine$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: Using the cheese machine" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="test_puppies" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/making_cheese.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Using the cheese machine$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="making_cheese.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="test_puppies" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/making_cheese.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="making_cheese_-steps" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="test_puppies" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/features/step_definitions" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/features/step_definitions/making_cheese_-steps.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.making_cheese.feature" />
+        <item itemvalue="Ruby.making_cheese_-steps" />
+        <item itemvalue="Cucumber.Scenario: Using the cheese machine (1)" />
+        <item itemvalue="Cucumber.Scenario: Using the cheese machine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f066748b-3e7a-41ab-89ee-0d6a63531e5e" name="Default Changelist" comment="" />
+      <created>1583254467973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583254467973</updated>
+      <workItem from="1583254469175" duration="3005000" />
+      <workItem from="1583271934425" duration="1841000" />
+      <workItem from="1583304759801" duration="1115000" />
+      <workItem from="1583328483611" duration="1439000" />
+      <workItem from="1583520877309" duration="293000" />
+      <workItem from="1583745056120" duration="625000" />
+      <workItem from="1583792077062" duration="2128000" />
+      <workItem from="1583821250900" duration="600000" />
+      <workItem from="1583843091627" duration="180000" />
+      <workItem from="1583920227702" duration="702000" />
+      <workItem from="1584026283353" duration="3033000" />
+      <workItem from="1584031015526" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1583304727068">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583304727068" />
+    <state width="2518" height="692" key="GridCell.Tab.0.bottom" timestamp="1584030971890">
+      <screen x="2736" y="-350" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583255377183" />
+    <state width="2518" height="692" key="GridCell.Tab.0.bottom/0.0.1368.872/6576.-330.2560.1400/2736.-350.2560.1400@2736.-350.2560.1400" timestamp="1584030971890" />
+    <state width="1326" height="400" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583794109162" />
+    <state width="2518" height="692" key="GridCell.Tab.0.center" timestamp="1584030971890">
+      <screen x="2736" y="-350" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583255377183" />
+    <state width="2518" height="692" key="GridCell.Tab.0.center/0.0.1368.872/6576.-330.2560.1400/2736.-350.2560.1400@2736.-350.2560.1400" timestamp="1584030971890" />
+    <state width="1326" height="400" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583794109162" />
+    <state width="2518" height="692" key="GridCell.Tab.0.left" timestamp="1584030971890">
+      <screen x="2736" y="-350" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583255377183" />
+    <state width="2518" height="692" key="GridCell.Tab.0.left/0.0.1368.872/6576.-330.2560.1400/2736.-350.2560.1400@2736.-350.2560.1400" timestamp="1584030971890" />
+    <state width="1326" height="400" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583794109162" />
+    <state width="2518" height="692" key="GridCell.Tab.0.right" timestamp="1584030971890">
+      <screen x="2736" y="-350" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1583255377183" />
+    <state width="2518" height="692" key="GridCell.Tab.0.right/0.0.1368.872/6576.-330.2560.1400/2736.-350.2560.1400@2736.-350.2560.1400" timestamp="1584030971890" />
+    <state width="1326" height="400" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583794109162" />
+    <state width="1326" height="281" key="GridCell.Tab.1.bottom" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.1.center" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.1.left" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.1.right" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.2.bottom" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.2.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.2.center" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.2.center/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.2.left" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.2.left/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state width="1326" height="281" key="GridCell.Tab.2.right" timestamp="1583266670755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.2.right/0.0.1368.872@0.0.1368.872" timestamp="1583266670755" />
+    <state x="3770" y="272" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1584030928723">
+      <screen x="2736" y="-350" width="2560" height="1400" />
+    </state>
+    <state x="3770" y="272" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1368.872/6576.-330.2560.1400/2736.-350.2560.1400@2736.-350.2560.1400" timestamp="1584030928723" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_puppies@Scenario__Using_the_cheese_machine.rcov" NAME="Scenario: Using the cheese machine Coverage Results" MODIFIED="1583792412856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_puppies" />
+    <SUITE FILE_PATH="coverage/test_puppies@Scenario__Using_the_cheese_machine__1_.rcov" NAME="Scenario: Using the cheese machine (1) Coverage Results" MODIFIED="1583792564281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_puppies" />
+    <SUITE FILE_PATH="coverage/test_puppies@making_cheese_feature.rcov" NAME="making_cheese.feature Coverage Results" MODIFIED="1584030933960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test_puppies" />
+    <SUITE FILE_PATH="coverage/test_puppies@making_cheese__steps.rcov" NAME="making_cheese_-steps Coverage Results" MODIFIED="1584030888586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/step_definitions" MODULE_NAME="test_puppies" />
+  </component>
+</project>
